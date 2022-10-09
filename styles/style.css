@@ -816,7 +816,7 @@ footer .container {
     text-align: center;
   }
   footer {
-    height: 155vh;
+    height: fit-content;
     margin-top: 40px;
   }
   footer .container {
